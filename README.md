@@ -1,0 +1,1 @@
+# Image-to-Video Prompting 101\n\nInteractive cinematic presentation engine.\n\nKeyboard: arrows/space navigate; O overview; P notes; F fullscreen.\n\nDeploy via GitHub Pages: Settings → Pages → GitHub Actions.\n
