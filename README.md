@@ -1,1 +1,6 @@
-# Image-to-Video Prompting 101\n\nInteractive cinematic presentation engine.\n\nKeyboard: arrows/space navigate; O overview; P notes; F fullscreen.\n\nDeploy via GitHub Pages: Settings → Pages → GitHub Actions.\n
+# Image-to-Video Prompting 101 — العرض العربي
+
+عرض تفاعلي عربي RTL، يضم مختبر الحركة والكاميرا والتكوين، مولّد برومبت، تقدم تدريجي، فهرس، ملاحظات مقدم، Presenter، إظلام الشاشة، وملء الشاشة.
+
+## النشر
+GitHub Pages عبر workflow تلقائي عند الدفع إلى main. اختصارات: الأسهم/Space، O الفهرس، N الملاحظات، P Presenter، F ملء الشاشة، B إظلام.
